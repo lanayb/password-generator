@@ -1,0 +1,12 @@
+1. prompt user for password criteria.
+    a. password lenght 8 - 128.
+    b. prompt user for:
+        - upper case
+        -lower case
+        -special characters.
+
+ 2. Validate input.
+
+ 3. Generate password from criteria.
+
+ 4. Display password to page. 
